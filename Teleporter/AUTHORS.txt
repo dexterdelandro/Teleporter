@@ -1,0 +1,9 @@
+I did not create the artwork for this game, they are credited as followed:
+
+Platforms and Background: opengameart2d.com
+
+Player/Enemy Models and Animations: Fabricio Corrreia Batista. https://assetstore.unity.com/packages/2d/characters/2d-fantasy-character-pack-demo-101030#description
+
+Arrows: IsometricRobot. https://opengameart.org/content/arrow-0
+
+Gems: GameArtForge. https://opengameart.org/content/gems-set-01
